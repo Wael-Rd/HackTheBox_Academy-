@@ -1,4 +1,4 @@
-# Ffuf Cheat Sheet
+# ffuf Cheat Sheet
 
 ## Attacking Web Applications with Ffuf
 
